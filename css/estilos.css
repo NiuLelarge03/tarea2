@@ -1,0 +1,92 @@
+#principal
+{
+    width: 1300px;
+    height: 1300px;
+    background-color: rgb(170, 104, 22);
+    margin: 20px;
+}
+#copa-somb
+{
+    width: 200px;
+    height: 70px;
+    background-color: saddlebrown;
+    border: 100px;
+    margin: auto;
+}
+#sombrero
+{
+    width: 500px;
+    height: 75px;
+    background-color: brown;
+    margin: auto;
+    border-radius: 10px;
+}
+#cara
+{
+    width: 450px;
+    height: 450px;
+    background-color: rgb(250, 217, 217);
+    margin: auto;
+    border-radius: 200px;
+}
+#ojo-der
+{
+    width: 85px;
+    height: 125px;
+    border-radius: 35px;
+    background-color:white;
+    display: inline-block;
+    position: relative;
+    top: 80px;
+    left: 90px;
+}
+#ojo-izq
+{
+    width: 85px;
+    height: 125px;
+    border-radius: 35px;
+    background-color:white;
+    position: relative;
+    top: 80px;
+    left: 180px;
+    display: inline-block;
+}
+#pupila
+{
+    width: 40px;
+    height: 55px;
+    background-color: black;
+    border-radius: 10px;
+    position: relative;
+    top: 45px;
+    left: 25px;
+}
+#nariz
+{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    border-radius: 40px;
+    position: relative;
+    top:13px;
+    left: 163px;
+}
+#maquillaje
+{
+    width: 250px;
+    height: 180px;
+    background-color: navy;
+    border-radius: 150px;
+    position: relative;
+    left: 100px;
+    top: 15px;
+}
+#boca
+{
+    width: 120px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    left: 60px;
+    top: 80px;
+}
